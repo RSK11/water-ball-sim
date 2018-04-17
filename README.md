@@ -1,4 +1,21 @@
-Ryan Kehlenbeck
+#Water Balloon Simulator
+
+Water Balloon Simulator was my final project for my Introduction to Computer Graphics class. The goal of the project was to implement a soft body physics simulation with simple collision detection. The technique used was inspired by the paper "Meshless Deformations Based on Shape Matching" by Matthias Mueller.
+
+######I was responsible for the following:
+[src/main](src/main.cpp)
+[src/Material](src/Material.cpp)
+[src/TPCamera](src/TPCamera.cpp)
+[src/WBalloon](src/WBalloon.cpp)
+[src/WObject](src/WObject.cpp)
+[resources/frag](resources/frag.glsl)
+[resources/vert](resources/vert.glsl)
+
+The rest of the code was provided by the instructor.
+
+
+
+##ORIGINAL README:
 
 Compile and Run using:
 
