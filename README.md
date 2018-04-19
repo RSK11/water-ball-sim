@@ -1,10 +1,13 @@
 # Water Balloon Simulator
 
 
+![Water Balloon Simulator sample image](https://rskbeck.github.io/img/wbs/main.jpg)
+
+
 Water Balloon Simulator was my final project for my Introduction to Computer Graphics class. The goal of the project was to implement a soft body physics simulation with simple collision detection. The technique used was inspired by the paper "Meshless Deformations Based on Shape Matching" by Matthias Mueller.
 
 
-###### I was responsible for the following:
+##### I was responsible for the following:
 
 [src/main](src/main.cpp)
 
